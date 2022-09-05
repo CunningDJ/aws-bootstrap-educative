@@ -1,0 +1,16 @@
+{
+  "name": "aws-bootstrap-educative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "source start.sh",
+    "stop": "source stop.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pm2": "^5.2.0"
+  }
+}
